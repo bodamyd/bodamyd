@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Marta&Diego",
-    "currentPage": "preguntas_frecuentes.html",
+    "currentPage": "coches_formulario.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -6429,7 +6429,7 @@
         }
       ]
     },
-    "coches_formaulario.html": {
+    "coches_formulario.html": {
       "settings": {
         "title": "Coches - formulario",
         "meta_descr": "",
